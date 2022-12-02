@@ -1,0 +1,8 @@
+Python >= 2.7, 3.4+
+Pandas (tested to work with >=0.23.1)
+Numpy >= 1.11.1
+requests >= 2.14.2
+lxml >= 4.5.1
+appdirs >= 1.4.4
+schedule >= 1.1.0
+aiogram >= 2.23.1
